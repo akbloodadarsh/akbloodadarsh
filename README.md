@@ -2,7 +2,10 @@
 <a href="https://leetcode.com/AkBlood/">
   <img align="left" alt=" Leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
-<a href="https://twitter.com/akbloodadarsh">
+<a href="https://www.hackerrank.com/ak_blood_adarsh">
+  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://twitter.com/AdarshKunwar11">
   <img align="left" alt="Adarsh Kunwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UChEQlSctXPx1_R24l-h-a_Q" target="_blank"><img src="https://bit.ly/3aLegGL" width="26" height="24"/></a>
@@ -24,9 +27,7 @@
 <a href="https://www.reddit.com/user/adarshakblood">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://www.hackerrank.com/ak_blood_adarsh">
-  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+
 
 <br></br>
 
