@@ -36,3 +36,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbloodadarsh&theme=dark&hide_langs_below=1&hide=c%2B%2B" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akbloodadarsh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="akbloodadarsh's github stats"/>
 </a></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akbloodadarsh&theme=calm)](https://git.io/streak-stats)
